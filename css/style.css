@@ -141,4 +141,8 @@ opacity:1px;}
         display:none;
     }
 
+    div li:nth-of-type(2)::after{
+        content: "👍";
+    }
+
 }
